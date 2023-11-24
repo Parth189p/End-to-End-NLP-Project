@@ -1,5 +1,7 @@
 # Text Summarization using Transformers
 
+![Project Status](https://img.shields.io/badge/Project%20Status-Active-green)
+
 Welcome to the Text Summarization project, a comprehensive NLP project that demonstrates end-to-end machine learning capabilities, including model building, training, and deployment. The project showcases its potential for scalability and production-level deployment by incorporating CI/CD pipelines on GitHub Actions, Docker, and deployment on both AWS and Azure.
 
 ## Project Overview
