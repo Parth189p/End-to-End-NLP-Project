@@ -48,7 +48,7 @@ Here's how to get started with the Text Summarization project:
 
 ```bash
 # Clone this repository
-git clone https://github.com/Parth-cilans/Face-reg.git
+git clone https://github.com/Parth189p/End-to-End-NLP-Project.git
 
 # Install project dependencies
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ python app.py
 
 ```
 
-## Next steps
+## Next steps in project to do
 
 ## Deployment Steps
 
